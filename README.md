@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abiria.
 - 👀 Microcontrollers and FPGA's are cool!
-- 📫 contact me: placideabiria@gmail.com
+- 📫 contact me: placideabiria@gmail.com | Linkedin: Abiria-Placide
 
 <!---
 AbiriaPlacide/AbiriaPlacide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
