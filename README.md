@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abiria.
-- 👀 Microcontrollers and FPGA's are cool!
+- 👀 
 - 📫 contact me: placideabiria@gmail.com
 
 <!---
