@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abiria.
-- 📫 contact me: placideabiria@gmail.com
+- 👋 Hi!
+- 📫 How to reach me: placideabiria@gmail.com
 
 <!---
 - 👀 
